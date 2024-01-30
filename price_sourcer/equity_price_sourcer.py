@@ -16,4 +16,4 @@ if 'Time Series (Daily)' in data:
 
     print(stock_data)
 else:
-    print("Error")
+    print("Error in fetching data")
